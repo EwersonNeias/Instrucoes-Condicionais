@@ -1,6 +1,6 @@
 using System;
 //Biblioteca usada no codigo
-class Program
+class Program //Nomeando a classe
 {
     static void Main(string[] args)
     {
