@@ -1,5 +1,5 @@
 using System;
-//Biblioteca usada
+//Biblioteca usada no codigo
 class Program
 {
     static void Main(string[] args)
